@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Rive",
-  "short_name": "Rive",
-  "description": "Your Personal Streaming Oasis.",
+  "name": "Movie Zone",
+  "short_name": "Movie Zone",
+  "description": "Your Personal Streaming Platform.",
   "icons": [
     {
       "src": "/icons/icon-192x192.png",
